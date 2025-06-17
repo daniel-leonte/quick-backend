@@ -1,0 +1,10 @@
+Flask
+flask-cors
+pymongo
+google-cloud-aiplatform
+vertexai
+Werkzeug
+gunicorn
+requests
+python-dotenv
+pandas
